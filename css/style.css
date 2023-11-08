@@ -1,1 +1,10 @@
-
+#div {
+  width: 200px;
+  text-align: center;
+  color: #fff;
+  background-color: #fff;
+  padding: 2em 0;
+  margin: 20px auto;
+  font-size: 24px;
+  font-weight: bold;
+}
